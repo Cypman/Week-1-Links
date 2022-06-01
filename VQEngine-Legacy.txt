@@ -2,4 +2,4 @@ https://github.com/vilbeyli/VQEngine-Legacy
 
 VQEngine - Legacy
 
-An entire game engine, running with DirectX11 renderer built in C++
+DirectX11 Renderer build with C++11
